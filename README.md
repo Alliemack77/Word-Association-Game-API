@@ -17,8 +17,8 @@ This project also uses express to build a mini backend which securley stores my 
 
 `npm run start`
 
-Runs the app in development mode
-Open (http://localhost:3000/) to view in the browser
+Runs the app in development mode.
+Open (http://localhost:3000/) to view in the browser.
 
 `npm run start:backend`
 
